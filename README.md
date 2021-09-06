@@ -1,4 +1,5 @@
-[![Jerry McKee's GitHub stats](https://github-readme-stats.vercel.app/api?username=McKeeJerry-FS)](https://github.com/McKeeJerry-FS/github-readme-stats)
+[![Jerry McKee's GitHub stats](https://github-readme-stats.vercel.app/api?username=McKeeJerry-FS&show_icons=true&theme=radical)
+)](https://github.com/McKeeJerry-FS/github-readme-stats)
 
 
 <!--
