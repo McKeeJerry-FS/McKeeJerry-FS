@@ -1,15 +1,17 @@
+
+
 ![Jerry McKee Jr's GitHub stats](https://github-readme-stats.vercel.app/api?username=McKeeJerry-FS&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McKeeJerry-FS&layout=compact)](https://github.com/McKeeJerry-FS/github-readme-stats)
 
+## Social Media Links:
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jjerry-mckee-jr/)
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jerry_mckee_jr01)
 
 
 ## Languages
-These are the languages that I have some knowledge in:
+These are the languages that I have some knowledge in. I'm still in the process of gaining proficiency within each of the languages but I have workable experience with each of these languages.
 
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
